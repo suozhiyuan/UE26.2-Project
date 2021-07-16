@@ -2,8 +2,11 @@
 UE4项目
 
 **跟随一个叫迪迪的人，纯C++手写UE4项目**
+
 教程来源：[梁迪](https://didi.ke.qq.com/#tab=1&category=-1)
+
 适合有一定“C++基础”和一定“GamePlay框架基础”的人来学习，最重要的是四个课程完全免费
+
 GamePlay框架可以在知乎[《InsideUE4》GamePlay架构（1~10）](https://zhuanlan.zhihu.com/p/22833151)处进行一定的了解
 
 ---------
